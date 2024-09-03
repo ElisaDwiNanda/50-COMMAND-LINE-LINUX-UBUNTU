@@ -1,4 +1,4 @@
-# 50-Command-Line-Linux-Ubuntu
+# 50 COMMAND LINE LINUX UBUNTU 24.04 LTS
 # Dokumentasi Perintah Linux
 
 ## 1. `lsb_release -a`
